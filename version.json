@@ -1,16 +1,16 @@
 {
-  "version": "v0.2.0",
-  "notes": "CuadraYa SGI v0.2.0: Planes escalonados (Bodega $15, Pro $22, Max $35), Licencia Vitalicia Permanente ($320), pantalla completa nativa, nuevos instaladores oficiales y soporte multimoneda BCV.",
-  "pub_date": "2026-11-06T12:00:00Z",
+  "version": "v0.2.1",
+  "notes": "CuadraYa SGI v0.2.1: Corrección en checklist de bienvenida inicial del negocio, apertura en modo ventana maximizada, planes escalonados con Licencia Vitalicia, actualización OTA optimizada y sincronización Supabase.",
+  "pub_date": "2026-11-06T13:30:00Z",
   "download_url": "https://github.com/mtovardev/CuadraYa-Update/releases/latest",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.0/CuadraYa_0.2.0_x64-setup.exe"
+      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.1/CuadraYa_0.2.1_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.0/CuadraYa_0.2.0_amd64.deb"
+      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.1/CuadraYa_0.2.1_amd64.deb"
     }
   }
 }
