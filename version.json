@@ -1,16 +1,16 @@
 {
-  "version": "v0.2.2",
-  "notes": "CuadraYa SGI v0.2.2: Sistema de Deliveries con Bot oficial de Telegram (@CuadraYaBot), rastreo satelital GPS en tiempo real con OpenStreetMap, geolocalización automática de la sede del negocio, cobro POS optimizado y sincronización automática continua.",
-  "pub_date": "2026-11-06T15:55:00Z",
+  "version": "v0.2.3",
+  "notes": "CuadraYa SGI v0.2.3: Actualización de arquitectura comercial, planes profesionales para negocios venezolanos, módulo de Deliveries con Bot de Telegram (@CuadraYaBot) con GPS en vivo, geolocalización de sede y sincronización continua en la nube.",
+  "pub_date": "2026-11-06T16:55:00Z",
   "download_url": "https://github.com/mtovardev/CuadraYa-Update/releases/latest",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.2/CuadraYa_0.2.2_x64-setup.exe"
+      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.3/CuadraYa_0.2.3_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.2/CuadraYa_0.2.2_amd64.deb"
+      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.3/CuadraYa_0.2.3_amd64.deb"
     }
   }
 }
